@@ -1,0 +1,15 @@
+D:\git\BMI\BMI\BMI\bin\Debug\net6.0\BMI.exe
+D:\git\BMI\BMI\BMI\bin\Debug\net6.0\BMI.deps.json
+D:\git\BMI\BMI\BMI\bin\Debug\net6.0\BMI.runtimeconfig.json
+D:\git\BMI\BMI\BMI\bin\Debug\net6.0\BMI.dll
+D:\git\BMI\BMI\BMI\bin\Debug\net6.0\BMI.pdb
+D:\git\BMI\BMI\BMI\obj\Debug\net6.0\BMI.csproj.AssemblyReference.cache
+D:\git\BMI\BMI\BMI\obj\Debug\net6.0\BMI.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\BMI\BMI\BMI\obj\Debug\net6.0\BMI.AssemblyInfoInputs.cache
+D:\git\BMI\BMI\BMI\obj\Debug\net6.0\BMI.AssemblyInfo.cs
+D:\git\BMI\BMI\BMI\obj\Debug\net6.0\BMI.csproj.CoreCompileInputs.cache
+D:\git\BMI\BMI\BMI\obj\Debug\net6.0\BMI.dll
+D:\git\BMI\BMI\BMI\obj\Debug\net6.0\refint\BMI.dll
+D:\git\BMI\BMI\BMI\obj\Debug\net6.0\BMI.pdb
+D:\git\BMI\BMI\BMI\obj\Debug\net6.0\BMI.genruntimeconfig.cache
+D:\git\BMI\BMI\BMI\obj\Debug\net6.0\ref\BMI.dll
